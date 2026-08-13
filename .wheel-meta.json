@@ -1,0 +1,19 @@
+{
+  "wheel_id": 156,
+  "structure": "umbrella",
+  "slug": "bathrenovationmelbourne-150",
+  "project": "bathroom-renovations-melbourne-81dbbbebd84e1404c7b1ea64d2481f8c",
+  "parent_t1_ref": "bathrenovationmelbourne-001",
+  "node_role": "buffer",
+  "money_target": "bathrenovationmelbourne.com.au",
+  "primary_kw": "bathroom renovations melbourne",
+  "intended_url": "https://sitesau.github.io/bathrenovationmelbourne-150/",
+  "writeback_nonce": "7afc2960e97a24a5",
+  "links": [
+    {
+      "target_url": "https://bathroom-renovations-melbourne-guide.surge.sh/",
+      "anchor": "bathroom renovations melbourne",
+      "rel": "follow"
+    }
+  ]
+}
